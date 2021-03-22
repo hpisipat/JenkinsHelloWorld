@@ -4,6 +4,7 @@ public class HelloWorld {
     
 	 System.out.println("Hello World!! Welcome to Jenkins Learning!");
 	 System.out.println("Happy Learning!!");
+	 System.out.println("Test changes trigger build");
  }
 
 }
